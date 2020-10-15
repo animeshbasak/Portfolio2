@@ -1,49 +1,15 @@
 {
   "name": "Animesh Basak",
-  "description": "I am a FrontEnd Developer",
+  "description": "FrontEnd Developer",
   "roles": [
-    "FrontEnd Developer 💻",
+    "Developer 💻",
+    "Tester 🛠",
     "Photographer📸",
     "Tech Enthusiast 🎇",
-    "Foodie 🍗"
+    "Animal Lover 🐕",
+    "Foodie 🍽"
   ],
   "socialLinks": [
-    {
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "ypaaqs28vprb"
-          }
-        },
-        "id": "4SrlLN9bt6Yew2UyGgM06a",
-        "type": "Entry",
-        "createdAt": "2020-10-15T14:49:35.266Z",
-        "updatedAt": "2020-10-15T14:59:10.819Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "socialLink"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "name": "Github",
-        "url": "https://github.com/animeshbasak",
-        "fontAwesomeIcon": "github"
-      }
-    },
     {
       "sys": {
         "space": {
@@ -78,6 +44,42 @@
         "name": "Contact me",
         "url": "https://animeshsbasak.typeform.com/to/ZleYO8ta",
         "fontAwesomeIcon": "envelope"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "ypaaqs28vprb"
+          }
+        },
+        "id": "4SrlLN9bt6Yew2UyGgM06a",
+        "type": "Entry",
+        "createdAt": "2020-10-15T14:49:35.266Z",
+        "updatedAt": "2020-10-15T14:59:10.819Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Github",
+        "url": "https://github.com/animeshbasak",
+        "fontAwesomeIcon": "github"
       }
     },
     {
@@ -161,78 +163,6 @@
             "id": "ypaaqs28vprb"
           }
         },
-        "id": "52Mw6BJNJEHjtM7vRL739V",
-        "type": "Entry",
-        "createdAt": "2020-10-15T16:49:53.297Z",
-        "updatedAt": "2020-10-15T17:33:41.835Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "revision": 4,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "socialLink"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "name": "Instagram Page",
-        "url": "https://www.instagram.com/faceoncanvas/",
-        "fontAwesomeIcon": "instagram"
-      }
-    },
-    {
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "ypaaqs28vprb"
-          }
-        },
-        "id": "3iwFArFP5j98NsmmtXHB7s",
-        "type": "Entry",
-        "createdAt": "2020-10-15T17:26:52.501Z",
-        "updatedAt": "2020-10-15T17:45:26.337Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "socialLink"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "name": "Facebook",
-        "url": "https://www.facebook.com/animeshsbasak/",
-        "fontAwesomeIcon": "facebook"
-      }
-    },
-    {
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "ypaaqs28vprb"
-          }
-        },
         "id": "4dWbbAndQxNReJcRuzyVKY",
         "type": "Entry",
         "createdAt": "2020-10-15T17:24:27.094Z",
@@ -301,7 +231,7 @@
       }
     }
   },
-  "aboutMe": "I am a System Engineer at Infosys Ltd. living in Hyderabad, India\n\nI have knowledge in UI/UX Designing, UI Development and Testing\n\nIn my leisure time I write and capture Poetry over Canvas",
+  "aboutMe": "# HI!😎\n\nI am a __System Engineer__ at __Infosys Ltd. Hyderabad__ , Currently living in Delhi, India.\n\nI have knowledge and keen in Web Development and Testing and also Designing\n\nIn my leisure time i have an interest in writing my phonetic thoughts through [Poetry](https://www.instagram.com/animeshbasak/ \"My Instagram\") and to sketch a face on the [Canvas](https://www.instagram.com/faceoncanvas/ \"Faceoncanvas\")   \n\nIf you’d like to get in touch and know about my work feel free to [Contact me](https://animeshsbasak.typeform.com/to/ZleYO8ta \"Connect To Me\"). ",
   "projects": [
     {
       "sys": {
@@ -315,7 +245,7 @@
         "id": "6Y7EIx73nUCWuoIWcsuM00",
         "type": "Entry",
         "createdAt": "2020-10-15T14:49:40.191Z",
-        "updatedAt": "2020-10-15T15:34:37.841Z",
+        "updatedAt": "2020-10-15T19:42:14.511Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -323,7 +253,7 @@
             "linkType": "Environment"
           }
         },
-        "revision": 2,
+        "revision": 3,
         "contentType": {
           "sys": {
             "type": "Link",
@@ -377,8 +307,87 @@
           }
         },
         "repositoryUrl": "https://github.com/animeshbasak/Netflix-Clone",
-        "description": "Delved into React Web Development by making this responsive and pixel perfect clone with Firebase Deployment.  Data was fetched from TMDB Movie Database API.  To see the live demo go to https://netflix-clone-d4851.web.app/",
+        "description": "Delved into React Web Development by making this responsive and pixel perfect clone with Firebase Deployment.  Data was fetched from TMDB Movie Database API",
         "projectUrl": "https://netflix-clone-d4851.web.app/",
+        "type": "Web"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "ypaaqs28vprb"
+          }
+        },
+        "id": "5soqeO5lodVWSZ3iZOJY2R",
+        "type": "Entry",
+        "createdAt": "2020-10-15T19:43:48.223Z",
+        "updatedAt": "2020-10-15T19:53:17.081Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Portfolio and Resume",
+        "publishedDate": "2020-10-14T00:00+05:30",
+        "logo": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "ypaaqs28vprb"
+              }
+            },
+            "id": "7jWVdkcwQ8WwGS1OhjA1BZ",
+            "type": "Asset",
+            "createdAt": "2020-10-15T19:53:11.652Z",
+            "updatedAt": "2020-10-15T19:53:11.652Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Logo",
+            "description": "Website Logo",
+            "file": {
+              "url": "//images.ctfassets.net/ypaaqs28vprb/7jWVdkcwQ8WwGS1OhjA1BZ/56b90bc5ada19ecdb41893b3351c2663/1.PNG",
+              "details": {
+                "size": 55082,
+                "image": {
+                  "width": 1902,
+                  "height": 1075
+                }
+              },
+              "fileName": "1.PNG",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "repositoryUrl": "https://github.com/animeshbasak/Portfolio",
+        "description": "Basic Static Portfolio with updated resume",
+        "projectUrl": "https://animeshsbasak.netlify.app",
         "type": "Web"
       }
     },
@@ -394,7 +403,7 @@
         "id": "5paxSRHbAkmgMc4WSW8S66",
         "type": "Entry",
         "createdAt": "2020-10-15T14:49:41.518Z",
-        "updatedAt": "2020-10-15T16:12:35.574Z",
+        "updatedAt": "2020-10-15T19:25:21.742Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -402,7 +411,7 @@
             "linkType": "Environment"
           }
         },
-        "revision": 3,
+        "revision": 4,
         "contentType": {
           "sys": {
             "type": "Link",
@@ -464,9 +473,9 @@
     "background": "#FFFFFF",
     "muted": "#f0e6f6",
     "gray": "#ddd",
-    "text": "#222831",
-    "primary": "#00adb5",
-    "secondary": "#393e46",
-    "highlight": "#eeeeee"
+    "text": "#212121",
+    "primary": "#14ffec",
+    "secondary": "#0d7377",
+    "highlight": "#323232"
   }
 }

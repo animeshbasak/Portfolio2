@@ -14,11 +14,11 @@ const theme: Theme = {
     background: '#FFFFFF',
     muted: '#f0e6f6',
     gray: '#ddd',
-    text: '#222831',
+    text: '#212121',
 
-    primary: '#00adb5',
-    secondary: '#393e46',
-    highlight: '#eeeeee',
+    primary: '#0d7377',
+    secondary: '#14ffec',
+    highlight: '#323232',
   },
   queries: {
     xs: '@media screen and (max-width: 40em)',
