@@ -1,1 +1,0 @@
-Portfolio Using Gatsby,Netlify and Contentful
