@@ -1,0 +1,472 @@
+{
+  "name": "Animesh Basak",
+  "description": "I am a FrontEnd Developer",
+  "roles": [
+    "FrontEnd Developer 💻",
+    "Photographer📸",
+    "Tech Enthusiast 🎇",
+    "Foodie 🍗"
+  ],
+  "socialLinks": [
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "ypaaqs28vprb"
+          }
+        },
+        "id": "4SrlLN9bt6Yew2UyGgM06a",
+        "type": "Entry",
+        "createdAt": "2020-10-15T14:49:35.266Z",
+        "updatedAt": "2020-10-15T14:59:10.819Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Github",
+        "url": "https://github.com/animeshbasak",
+        "fontAwesomeIcon": "github"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "ypaaqs28vprb"
+          }
+        },
+        "id": "114ApRkJZq640w8G2GwM8w",
+        "type": "Entry",
+        "createdAt": "2020-10-15T14:49:38.773Z",
+        "updatedAt": "2020-10-15T15:28:57.402Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Contact me",
+        "url": "https://animeshsbasak.typeform.com/to/ZleYO8ta",
+        "fontAwesomeIcon": "envelope"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "ypaaqs28vprb"
+          }
+        },
+        "id": "4J6WFTjoMUCmQKuKAaOsqE",
+        "type": "Entry",
+        "createdAt": "2020-10-15T14:49:38.068Z",
+        "updatedAt": "2020-10-15T15:01:13.647Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Twitter",
+        "url": "https://twitter.com/animeshsbasak",
+        "fontAwesomeIcon": "twitter"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "ypaaqs28vprb"
+          }
+        },
+        "id": "2kRVuBY2xeO6YFRBaM8f6o",
+        "type": "Entry",
+        "createdAt": "2020-10-15T17:27:48.069Z",
+        "updatedAt": "2020-10-15T17:45:16.295Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/in/animeshbasak/",
+        "fontAwesomeIcon": "linkedin"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "ypaaqs28vprb"
+          }
+        },
+        "id": "52Mw6BJNJEHjtM7vRL739V",
+        "type": "Entry",
+        "createdAt": "2020-10-15T16:49:53.297Z",
+        "updatedAt": "2020-10-15T17:33:41.835Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Instagram Page",
+        "url": "https://www.instagram.com/faceoncanvas/",
+        "fontAwesomeIcon": "instagram"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "ypaaqs28vprb"
+          }
+        },
+        "id": "3iwFArFP5j98NsmmtXHB7s",
+        "type": "Entry",
+        "createdAt": "2020-10-15T17:26:52.501Z",
+        "updatedAt": "2020-10-15T17:45:26.337Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/animeshsbasak/",
+        "fontAwesomeIcon": "facebook"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "ypaaqs28vprb"
+          }
+        },
+        "id": "4dWbbAndQxNReJcRuzyVKY",
+        "type": "Entry",
+        "createdAt": "2020-10-15T17:24:27.094Z",
+        "updatedAt": "2020-10-15T17:33:50.402Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/animeshbasak/",
+        "fontAwesomeIcon": "instagram"
+      }
+    }
+  ],
+  "profile": {
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "ypaaqs28vprb"
+        }
+      },
+      "id": "6nf3rNaaVaUqYcoAcciSeC",
+      "type": "Asset",
+      "createdAt": "2020-10-15T14:49:29.358Z",
+      "updatedAt": "2020-10-15T14:58:33.989Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "revision": 2,
+      "locale": "en-US"
+    },
+    "fields": {
+      "title": "Profile Picture",
+      "description": "Profile Picture",
+      "file": {
+        "url": "//images.ctfassets.net/ypaaqs28vprb/6nf3rNaaVaUqYcoAcciSeC/9c492a89d103580096c2ec653ecf6047/profile.jpg",
+        "details": {
+          "size": 341871,
+          "image": {
+            "width": 1440,
+            "height": 1440
+          }
+        },
+        "fileName": "profile.jpg",
+        "contentType": "image/jpeg"
+      }
+    }
+  },
+  "aboutMe": "I am a System Engineer at Infosys Ltd. living in Hyderabad, India\n\nI have knowledge in UI/UX Designing, UI Development and Testing\n\nIn my leisure time I write and capture Poetry over Canvas",
+  "projects": [
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "ypaaqs28vprb"
+          }
+        },
+        "id": "6Y7EIx73nUCWuoIWcsuM00",
+        "type": "Entry",
+        "createdAt": "2020-10-15T14:49:40.191Z",
+        "updatedAt": "2020-10-15T15:34:37.841Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Netflix Clone",
+        "publishedDate": "2020-10-06T00:00+02:00",
+        "logo": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "ypaaqs28vprb"
+              }
+            },
+            "id": "pHS8FW5pG2dfCGlPRaRKQ",
+            "type": "Asset",
+            "createdAt": "2020-10-15T15:33:45.613Z",
+            "updatedAt": "2020-10-15T15:33:45.613Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Netflix",
+            "description": "Netflix Clone",
+            "file": {
+              "url": "//images.ctfassets.net/ypaaqs28vprb/pHS8FW5pG2dfCGlPRaRKQ/a82c635da4e08f6d6f095e6312bccb8e/netflixlogo.0.0.jpg",
+              "details": {
+                "size": 40743,
+                "image": {
+                  "width": 1400,
+                  "height": 1050
+                }
+              },
+              "fileName": "netflixlogo.0.0.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        "repositoryUrl": "https://github.com/animeshbasak/Netflix-Clone",
+        "description": "Delved into React Web Development by making this responsive and pixel perfect clone with Firebase Deployment.  Data was fetched from TMDB Movie Database API.  To see the live demo go to https://netflix-clone-d4851.web.app/",
+        "projectUrl": "https://netflix-clone-d4851.web.app/",
+        "type": "Web"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "ypaaqs28vprb"
+          }
+        },
+        "id": "5paxSRHbAkmgMc4WSW8S66",
+        "type": "Entry",
+        "createdAt": "2020-10-15T14:49:41.518Z",
+        "updatedAt": "2020-10-15T16:12:35.574Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Slack Clone",
+        "publishedDate": "2020-10-31T00:00+02:00",
+        "logo": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "ypaaqs28vprb"
+              }
+            },
+            "id": "3AorRmtWOsGQ4o8gK0YWKG",
+            "type": "Asset",
+            "createdAt": "2020-10-15T14:49:28.699Z",
+            "updatedAt": "2020-10-15T15:36:35.044Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 2,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Slack",
+            "description": "Slack Logo",
+            "file": {
+              "url": "//images.ctfassets.net/ypaaqs28vprb/3AorRmtWOsGQ4o8gK0YWKG/0f7b1cd48ccd64c4025d56e55fe6b583/download.png",
+              "details": {
+                "size": 4864,
+                "image": {
+                  "width": 312,
+                  "height": 162
+                }
+              },
+              "fileName": "download.png",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "description": "This section will be updated shortly",
+        "type": "Web"
+      }
+    }
+  ],
+  "colors": {
+    "background": "#FFFFFF",
+    "muted": "#f0e6f6",
+    "gray": "#ddd",
+    "text": "#222831",
+    "primary": "#00adb5",
+    "secondary": "#393e46",
+    "highlight": "#eeeeee"
+  }
+}
