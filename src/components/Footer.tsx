@@ -15,7 +15,7 @@ const Footer = () => {
       <FooterContainer>
         <Fade direction="left" triggerOnce>
           <TextWrapper fontSize={[2, 3]}>
-            <span>{`Made With ❤️ By ${name}`}</span>
+            <span>{`Built By @ ${name} ❤️`}</span>
           </TextWrapper>
         </Fade>
         <Flex>
@@ -40,7 +40,7 @@ const FooterContainer = styled.div`
   align-items: center;
   margin: auto;
 
-  @media (max-width: 400px) {
+  @media (max-width: 200px) {
     flex-direction: column-reverse;
 
     & > * {

@@ -231,7 +231,7 @@
       }
     }
   },
-  "aboutMe": "# HI!😎\n\nI am a __System Engineer__ at __Infosys Ltd. Hyderabad__ , Currently living in Delhi, India.\n\nI have knowledge and keen in Web Development and Testing and also Designing\n\nIn my leisure time i have an interest in writing my phonetic thoughts through [Poetry](https://www.instagram.com/animeshbasak/ \"My Instagram\") and to sketch a face on the [Canvas](https://www.instagram.com/faceoncanvas/ \"Faceoncanvas\")   \n\nIf you’d like to get in touch and know about my work feel free to [Contact me](https://animeshsbasak.typeform.com/to/ZleYO8ta \"Connect To Me\"). ",
+  "aboutMe": "# HI!😎\n\nI am a __System Engineer__ at __Infosys__ Limited in Hyderabad , Currently living in Delhi, India.\n\nI have a keen interest in Web Development, Designing and also holds knowledge regarding Web testing\n\nIn my leisure time I write and capture Poetry over [Canvas](https://www.instagram.com/faceoncanvas/ \"Faceoncanvas\")   \n\nIf you’d like to get in touch and know about my work feel free to [Contact me] (https://animeshsbasak.typeform.com/to/ZleYO8ta \"Connect To Me\"). ",
   "projects": [
     {
       "sys": {
@@ -474,8 +474,8 @@
     "muted": "#f0e6f6",
     "gray": "#ddd",
     "text": "#212121",
-    "primary": "#14ffec",
-    "secondary": "#0d7377",
+    "primary": "#0d7377",
+    "secondary": "#14ffec",
     "highlight": "#323232"
   }
 }

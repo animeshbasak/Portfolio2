@@ -35,8 +35,8 @@ const About = () => {
 };
 
 const ProfilePicture = styled(Image)`
-  border-radius: 45%;
-  transition: all 0.4s ease-out;
+  border-radius:55%;
+  transition: all 0.65s ease-out;
 
   &:hover {
     border-radius: 20%;
